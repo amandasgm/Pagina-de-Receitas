@@ -1,6 +1,7 @@
 :root{
   font-family: "Alice", serif;
   line-height: 150%;
+  color: #573a37;
 }
 *{
   margin: 0;
@@ -10,6 +11,7 @@
 
 body{
   background-image:url(assets/bg-image.jpg);
+  background-color: #573a37;
   background-size: cover;
 }
 
@@ -53,3 +55,13 @@ h1, h2{
   margin-bottom: 4px;
   line-height: 150%;
 } 
+
+footer{
+  color: #291B1A;
+  text-align: center;
+  padding: 48px;
+}
+
+footer img{
+  vertical-align: middle;
+}
